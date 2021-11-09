@@ -1,0 +1,18 @@
+body {
+	margin: 0;
+	font-family: Helvetica;
+}
+
+.btn-like {
+	height: 80px;
+	width: 80px;
+
+}
+
+#container {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+}
